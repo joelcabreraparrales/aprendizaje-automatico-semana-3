@@ -1,6 +1,6 @@
 # Inicio del proyecto
 Integrante: 
 - Joel Cabrera
-- Carlos Moya
+- Carlos Moyaa
 - Andres Sanchez
 - Maria Victoria
